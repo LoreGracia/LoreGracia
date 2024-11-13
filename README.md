@@ -34,7 +34,7 @@
 <div align="center">
     <h1>⚡ Skills</h1>
   
- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoreGracia&hide=language2&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+ [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoreGracia&langs_count=5&hide=python,roff,javascript,html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <div align="left">
     <h1 align="center">👀 About me</h1>
   🎓 Student at Campus 42 Barcelona
