@@ -1,15 +1,15 @@
-<div align="right">
-    <h1 align="left">
-  
-[🌱 42 Barcelona](-<h1>-🌱-42-Barcelona</h1>-)
-
-[⏲ Github Stats](-<h1>-⏲-Github-Stats</h1>-)
-
-[⚡ Skills](-<h1>⚡-Skills</h1>-)
-
-[👀 About me](-<h1>-👀-About-me</h1>-)  
-
-[📫 Reach me](-<h2>-📫-Reach-me</h2>-)
+ <h4 align="center"> 
+    <a href="-<h1>-🌱-42-Barcelona</h1>-">🌱 42 Barcelona</a>
+    ·
+      <a href="-<h1>-⏲-Github-Stats</h1>-">⏲ Github Stats</a>
+    ·
+      <a href="-<h1>⚡-Skills</h1>-">⚡ Skills</a>
+    ·
+      <a href="-<h1>-👀-About-me</h1>-">👀 About me</a>
+    ·
+      <a href="-<h2>-📫-Reach-me</h2>-">📫 Reach me</a>
+    ·
+      <a href="-<h1>-🌱-42-Barcelona</h1>-">🌱 42 Barcelona</a>
 
 <div align="center">
     <h1>🌱 42 Barcelona</h1> 
@@ -25,18 +25,22 @@
         <a href="https://github.com/LoreGracia/42/tree/main/Printf"><img src="https://img.shields.io/badge/printf-100%25-lightgreen?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
         <a href="https://github.com/LoreGracia/42/tree/main/Get_next_line"><img src="https://img.shields.io/badge/get_next_line-125%25-greenyellow?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
         <a href="https://github.com/LoreGracia/42/tree/main/B2B"><img src="https://img.shields.io/badge/born_to_be_root-125%25-greenyellow?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
-    
+     
+</div>
+            
 <div align="center">
      <h1>⏲ Github Stats</h1>
   
   [![LoreGracia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoreGracia&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
-
+     
+</div>
+     
 <div align="center">
     <h1>⚡ Skills</h1>
-  
+    
  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoreGracia&langs_count=5&hide=python,roff,javascript,html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-<div align="left">
-    <h1 align="center">👀 About me</h1>
+    
+<h1 align="center">👀 About me</h1>
   🎓 Student at Campus 42 Barcelona
 Focusing on C developing my knowledge in systems programming and software development.
 
@@ -48,7 +52,7 @@ I participated in collaboration resolving the variation of languajes in web by i
 
  <div align="right">
     <h2>📫 Reach me</h2>
-   <a href="https://www.linkedin.com/in/lorena-gracia-001b01265"><img src="https://www.seoinnova.es/wp-content/uploads/2023/09/linkedin.png" width="100"/>
+   <a href="https://www.linkedin.com/in/lorena-gracia-001b01265"><img src="https://www.seoinnova.es/wp-content/uploads/2023/09/linkedin.png" width="60"/>
 
 
 
