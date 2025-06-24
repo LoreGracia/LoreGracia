@@ -25,6 +25,13 @@
         <a href="https://github.com/LoreGracia/02-Printf"><img src="https://img.shields.io/badge/printf-100%25-lightgreen?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
         <a href="https://github.com/LoreGracia/02-Get-next-line"><img src="https://img.shields.io/badge/get_next_line-125%25-greenyellow?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
         <a href="https://github.com/LoreGracia/02-B2B"><img src="https://img.shields.io/badge/born_to_be_root-125%25-greenyellow?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
+  <div align="left">
+        <a href="https://github.com/LoreGracia/03-Push-swap"><img src="https://img.shields.io/badge/reload-92%25-lightgreen?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
+        <a href="https://github.com/LoreGracia/03-Fractol"><img src="https://img.shields.io/badge/libft-125%25-greenyellow?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
+        <a href="https://github.com/LoreGracia/03-Minitalk"><img src="https://img.shields.io/badge/printf-125%25-lightgreen?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
+  <div align="left">
+        <a href="https://github.com/LoreGracia/04-Philosopher"><img src="https://img.shields.io/badge/printf-100%25-lightgreen?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
+        <a href="https://github.com/LoreGracia/04-Minishell"><img src="https://img.shields.io/badge/get_next_line-100%25-greenyellow?style=for-the-badge&labelColor=black"><a 
      
 </div>
             
