@@ -18,13 +18,13 @@
   <h3 align="left">42 proyects</h3>
   
   <div align="left">
-        <a href="https://github.com/LoreGracia/42/tree/main/Reload"><img src="https://img.shields.io/badge/reload-100%25-lightgreen?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
+        <a href="https://github.com/LoreGracia/00-Reload"><img src="https://img.shields.io/badge/reload-100%25-lightgreen?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
   <div align="left">
-        <a href="https://github.com/LoreGracia/42/tree/main/Libft"><img src="https://img.shields.io/badge/libft-125%25-greenyellow?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
+        <a href="https://github.com/LoreGracia/01-Libft"><img src="https://img.shields.io/badge/libft-125%25-greenyellow?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
   <div align="left">
-        <a href="https://github.com/LoreGracia/42/tree/main/Printf"><img src="https://img.shields.io/badge/printf-100%25-lightgreen?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
-        <a href="https://github.com/LoreGracia/42/tree/main/Get_next_line"><img src="https://img.shields.io/badge/get_next_line-125%25-greenyellow?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
-        <a href="https://github.com/LoreGracia/42/tree/main/B2B"><img src="https://img.shields.io/badge/born_to_be_root-125%25-greenyellow?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
+        <a href="https://github.com/LoreGracia/02-Printf"><img src="https://img.shields.io/badge/printf-100%25-lightgreen?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
+        <a href="https://github.com/LoreGracia/02-Get-next-line"><img src="https://img.shields.io/badge/get_next_line-125%25-greenyellow?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
+        <a href="https://github.com/LoreGracia/02-B2B"><img src="https://img.shields.io/badge/born_to_be_root-125%25-greenyellow?style=for-the-badge&labelColor=black"><a href="https://shields.io"/>
      
 </div>
             
